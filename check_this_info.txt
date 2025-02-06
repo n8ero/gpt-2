@@ -1,0 +1,3 @@
+Hugging face post with some good info
+
+https://huggingface.co/docs/transformers/en/model_doc/gpt2
